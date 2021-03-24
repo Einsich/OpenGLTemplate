@@ -1,6 +1,3 @@
-
-<<<<<<< HEAD
-=======
 # Ray tracing in OpenGL
 
 Hello there! Mac port brought to you by [@Ubsefor](https://github.com/Ubsefor) with the incredible help of [@Einsich](https://github.com/Einsich) of explaining the sources
@@ -35,4 +32,4 @@ Build the project by opening project file or via terminal, using command `xcodeb
 The compiled binary, if you set up xcode as it is in this Readme, should be located in `Build` folder in the repo root.
 
 You can run it from the terminal, or by double-clicking the executable from Finder.
->>>>>>> Ubsefor-mac_os
+
