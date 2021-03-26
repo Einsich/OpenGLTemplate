@@ -1,25 +1,32 @@
-Install packages:
+# Linux-only:
 
-sudo apt-get install cmake
+## Install depedencies:
 
-sudo apt-get install libglm-dev
+`sudo apt-get install cmake`
 
-sudo apt-get install libsdl2-dev
+`sudo apt-get install libglm-dev`
+
+`sudo apt-get install libsdl2-dev`
 
 
-Run and build release:
+# Run and build release:
 
-./build_script.sh RayTracing rel
+`./build_script.sh RayTracing rel`
 
-./run_build.sh RayTracing rel
+`./run_build.sh RayTracing rel`
 
 or
 
-./build_script.sh
-./run_build.sh
+`./build_script.sh`
 
-Run and build bedug:
+`./run_build.sh`
 
-./build_script.sh RayTracing dev
+# Run and build debug:
 
-./run_build.sh RayTracing dev
+`./build_script.sh RayTracing dev`
+
+`./run_build.sh RayTracing dev`
+
+### Mac-OS instructions:
+
+[Readme](https://github.com/Einsich/OpenGLTemplate/blob/mac_os/README.md)
