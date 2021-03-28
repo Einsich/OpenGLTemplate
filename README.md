@@ -13,19 +13,19 @@
 
 `./build_script.sh RayTracing rel`
 
-`./run_build.sh RayTracing rel`
+`./run_script.sh RayTracing rel`
 
 or
 
 `./build_script.sh`
 
-`./run_build.sh`
+`./run_script.sh`
 
 # Run and build debug:
 
 `./build_script.sh RayTracing dev`
 
-`./run_build.sh RayTracing dev`
+`./run_script.sh RayTracing dev`
 
 ### Mac-OS instructions:
 
